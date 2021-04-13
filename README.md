@@ -1,4 +1,5 @@
-These are three small apps written in swift language for iOS.
+These are three small apps written in swift language for iOS. <br>
+All were created for Mobile Technologies course on Silesian University of Technology.
 
 #### Simple Game
 The first one is a simple game in which the player sets the slider control position so that it is as close to the random value as possible.
