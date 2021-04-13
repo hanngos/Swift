@@ -1,4 +1,5 @@
-These are three small apps written in swift language for iOS. <br>
+These are three small apps written in swift language for iOS. 
+
 All were created for Mobile Technologies course on Silesian University of Technology.
 
 #### Simple Game
